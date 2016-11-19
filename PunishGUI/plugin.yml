@@ -1,0 +1,8 @@
+name: PunishGUI
+main: me.lagswitcher.Core
+description: Punishment Plugin
+author: LagSwitcher
+version: 1.0
+commands:
+   punish:
+      description: Punish GUI Command
